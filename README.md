@@ -4,7 +4,7 @@
 <h1 align="center"> 
   Hello there, I'm Emiliano,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 </h1>
-##🧑‍💻 About me.
+<h2>🧑‍💻 About me.</h2>
 
 
 I'm a **freelance full-stack developer** and **electronics engineer**, focused in embedded systems and web apps.
