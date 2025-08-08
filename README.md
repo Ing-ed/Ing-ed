@@ -1,6 +1,7 @@
 <div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 100px  /></div>
 <h1 align="center"> Hello there, I'm Emiliano,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-#About me
+<h2>About me.</h2>
+---
 
 
 I'm **freelance full-stack developer** and **electronics engineer**, focused in embedded systems and web apps.
