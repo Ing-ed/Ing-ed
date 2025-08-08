@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a freelance Full-Stack developer | Electronic Engineer
 <!--
 **Ing-ed/Ing-ed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
