@@ -17,8 +17,8 @@ My most recently project is an **IoT** platform, I developed completely alone.
 - Mini demo -> <https://smarthomefe-git-demo-emiliano-dovichis-projects.vercel.app/>.
 
 ## 📫 How to reach me?
-
-<a hlink="https://linkedin.com/in/emiliano-dovichi">Linkedin</a>
+<ul list-style="none">
+  <li><a href="https://linkedin.com/in/emiliano-dovichi">Linkedin</a></li>
 
 <--
 special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
