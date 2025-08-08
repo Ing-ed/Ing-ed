@@ -17,10 +17,11 @@ My most recently project is an **IoT** platform, I developed completely alone.
 - Mini demo -> <https://smarthomefe-git-demo-emiliano-dovichis-projects.vercel.app/>.
 
 ## 📫 How to reach me?
-<ul list-style="none">
+
   <li><a href="https://linkedin.com/in/emiliano-dovichi">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-  </a></li>
+  </a>
+  <a href="mailto:emidovichi@gmail.com"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
 
 <--
 special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
