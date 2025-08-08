@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 100px width = 60%  /></div>
+<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 100px  /></div>
 ### Hello there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Emiliano.
 I'm **freelance full-stack developer** and **electronics** engineer, specializing in embedded systems and web apps.
 I developed many tools for increase my work productivity and currently, I'm looking for a job that allows me improve my programming skills and integrate me on a work team
