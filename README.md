@@ -17,14 +17,26 @@ My most recently project is an **IoT** platform, I developed completely alone.
 - Mini demo -> <https://smarthomefe-git-demo-emiliano-dovichis-projects.vercel.app/>.
 
 ## 📫 How to reach me?
-
-  <a href="https://linkedin.com/in/emiliano-dovichi">Linkedin
+<div align="center">
+  <a href="https://linkedin.com/in/emiliano-dovichi">
+    <img width="50px" src="img/linkedin.png">
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=emidovichi@gmail.com">Gmail
+  <a href="https://mail.google.com/mail/?view=cm&to=emidovichi@gmail.com">
+    <img width="50px" src="img/gmail.png">
   </a>
+</div>
   
+## \<\\\> Languages & tools.
+<!-- <div display="flex">
+  <div display="flex" flex-direction="column"> -->
 
-<--
+- 🖥️&nbsp;&nbsp;<img src="img/python.png" width="20px">   Python &nbsp;&nbsp;<img src="img/js.png" width="20px">   JavaScript  &nbsp;&nbsp;<img src="img/Cs.png" width="20px">   C# &nbsp;&nbsp;<img src="img/Cpp.png" width ="20px">  C++  &nbsp;&nbsp;<img src="img/C.png" width="20px">  C
+- ⚙️&nbsp;&nbsp;<img src="img/git.png" width="20px">Git &nbsp;&nbsp; <img src="img/github.png" width="20px">GitHub &nbsp;&nbsp; <img src="img/vscode.png" width="20px"> Visual Studio Code
+
+
+<!-- </div>
+</div> -->
+<!--
 special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
