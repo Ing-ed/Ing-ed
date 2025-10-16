@@ -10,6 +10,8 @@
 I'm a **freelance full-stack developer** and **electronics engineer**, focused in embedded systems and web apps.
 I developed many tools for increase my work productivity and currently, I'm looking for a job that allows me improve my programming skills and become part of a work team
 
+find all my projects <a href="https://portafolio-ed.vercel.app" target:"_blank">here</a>
+
 My most recently project is an **IoT** platform, I developed completely alone.
 - it has a **NodeJS** server for user and device register on a **MongoDB** database, currently I'm migrating it to an **SQL** database.
 - also has a **ReactJS** front-end for allow user control and manage devices
